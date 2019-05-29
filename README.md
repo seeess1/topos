@@ -4,8 +4,8 @@ In this exercise I used Beautiful Soup to scrape statistics for all 314 incorpor
 
 To visualize the data, I also brought in a shapefile of US state boundaries available via US Census Tiger/Line. Here's a snapshot of the visualized data:
 
-![alt text](data/sample_plot.png)
+![alt text](images/sample_plot.png)
 
 I also prepped the data to be loaded into BigQuery and loaded it once to make sure there were no hiccups:
 
-![alt text](data/big_query.png)
+![alt text](images/big_query.png)
